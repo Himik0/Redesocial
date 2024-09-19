@@ -8,3 +8,8 @@
 
 
 }
+body{
+    background-color: var(--cor-principal)
+    color: var(var(--cor-texto))
+    font-family: var(var(--font))
+} 
