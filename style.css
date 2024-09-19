@@ -10,6 +10,6 @@
 }
 body{
     background-color: var(--cor-principal);
-    color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: var(--font);
 } 
