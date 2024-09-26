@@ -9,7 +9,7 @@
 
 }
 body{
-    background-color: var(--cor-principal);
+    background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     font-family: var(--font);
     height: 100vh;
@@ -17,7 +17,7 @@ body{
 } 
 
 .cabecalho{
-    background-color: var(--cor-secundaria);
+    background-color: var(--cor-principal);
     text-align: center;
 }
 .cabecalho__titulo{
@@ -33,4 +33,6 @@ nav{
 nav a{
     text-decoration: none;
     color: var(--cor-texto);
+   margin: 0 2rem 1rem 0;
+   font-size: 1.2rem;
 }
