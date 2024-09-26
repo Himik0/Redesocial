@@ -21,5 +21,6 @@ body{
     text-align: center;
 }
 .cabecalho__titulo{
-    font-size: 2 rem;
+    font-size: 2rem;
+    color: var(--cor-texto);
 }
