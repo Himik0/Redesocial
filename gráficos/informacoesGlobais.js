@@ -3,5 +3,6 @@ const ur = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-gl
 async function visualizarInformacoeGlobais(){
 const res = await fetch(url)
 const dados = await res.json()
-console.log(dados);
+console.log(dados); 
+
 }
